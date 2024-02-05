@@ -1,5 +1,5 @@
 
-    public class SwappVariables {
+    public class SwapVariables {
         public static void main(String[] args) {
 
             String x = "Water";

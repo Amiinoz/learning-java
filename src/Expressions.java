@@ -1,4 +1,4 @@
-public class Experessions {
+public class Expressions {
 
     public static void main(String[] rgs) {
 
@@ -14,10 +14,10 @@ public class Experessions {
         friends = friends * 2;
         friends = friends / 2;
 //         gives you the remainder of /
-        friends = friends % 3;
+//        friends = friends % 3;
 
-        double friends = 10;
-        friends = (double) friends/3;
+//        double friends = 10;
+//        friends = (double) friends/3;
 
 
 
