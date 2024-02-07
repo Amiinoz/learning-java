@@ -4,15 +4,15 @@ public class Arrays {
 
         // Arrays are used to store multiple values in a single variable
 //
-        String[] cars = {
-                "Tesla",
-                "Camero",
-                "Mustang"
-        };
-
-        cars[0] = "Carasida";
-
-        System.out.println(cars[1]);
+//        String[] cars = {
+//                "Tesla",
+//                "Camero",
+//                "Mustang"
+//        };
+//
+//        cars[0] = "Carasida";
+//
+//        System.out.println(cars[1]);
 
         // Another way to declare arrays is
 //
