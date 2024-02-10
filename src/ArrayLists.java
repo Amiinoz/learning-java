@@ -26,7 +26,7 @@ public class ArrayLists {
         for(int i=0; i<food.size(); i++){
             System.out.println(food.get(i));
 
-
+            System.out.println(i);
 
         }
 
