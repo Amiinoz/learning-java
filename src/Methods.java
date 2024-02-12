@@ -2,9 +2,16 @@ public class Methods {
 
     public static void main(String[] args) {
 
-        // Method is = a block of code that is executed when ever it's called upon
+        // Method aka functions are  = a block of code that is executed when ever it's called upon
         String name = "Mo";
         int age = 23;
+        int x = 3;
+        int y = 4;
+
+        int z = x + y;
+
+        System.out.println(z);
+        System.out.println(add(x,y));
         hello(name, age);
     }
 
@@ -18,4 +25,11 @@ public class Methods {
 //    static void hello(String name){
 //        System.out.println("Hello "+ name);
 //    }
+
+    static int add(int x, int y){
+        int z = x + y;
+        return z;
+        // or
+//        return x + y;
+    }
 }
