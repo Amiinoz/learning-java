@@ -1,5 +1,6 @@
 public class Car {
 
+    String name;
     String make = "Toyota";
     String model = "Carola";
     String color = "Red";
