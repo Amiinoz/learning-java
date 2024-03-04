@@ -8,5 +8,5 @@ public abstract class Vehicle {
 //    abstract void go(){
 //        // can't add body
 //    }
-    abstract void go();
+    public abstract void go();
 }

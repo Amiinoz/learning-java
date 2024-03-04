@@ -7,7 +7,7 @@ public class Main {
         //              similar to inheritance, but specifies what a class has must do
         //              Classes can apply more than one interface, inheritance is limited to 1 super
 
-        Rabit rabit = new Rabit();
+        Rabbit rabit = new Rabbit();
         Hawk hawk = new Hawk();
         Fish fish = new Fish();
 

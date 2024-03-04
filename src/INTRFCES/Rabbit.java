@@ -1,6 +1,6 @@
 package INTRFCES;
 
-public class Rabit implements Prey{
+public class Rabbit implements Prey{
 
 
     @Override
